@@ -1,1 +1,1 @@
-C'est un projet de prediction d'annulation de l'hotel 
+C'est un projet de prediction d'annulation des hotels .  
